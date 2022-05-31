@@ -1,0 +1,159 @@
+.nav {
+  background-color: #171616;
+  height: 75px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: 0.5s;
+  z-index: 10;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  width: 100%;
+  padding: 0 33px;
+}
+
+.giolosts-logo,
+.logo {
+  width: 20%;
+}
+
+.giolost_text {
+  margin-left: 10px;
+}
+
+.nav-logo {
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 23px;
+  margin-left: 200px;
+}
+
+.nav-icon {
+  margin-right: 1rem;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  margin-right: 200px;
+}
+
+.nav-links {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  height: 100%;
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 23px;
+  margin-right: 70px;
+}
+
+.contact-us-btn {
+  border: 1px solid #ffffff;
+  border-radius: 43px;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+}
+
+.contact-us-btn a {
+  margin-right: 0px;
+}
+
+.menu-icon {
+  display: none;
+}
+.text {
+  font-family: "Open Sans";
+  font-style: normal;
+}
+
+.not-scrolled {
+  background: none;
+}
+
+.mobile-menu {
+  display: none;
+}
+@media only screen and (max-width: 1449px) {
+  .nav-logo {
+    margin-left: 100px;
+  }
+
+  .nav-menu {
+    margin-right: 100px;
+  }
+}
+
+@media only screen and (max-width: 1246px) {
+  .nav-logo {
+    margin-left: 10px;
+  }
+
+  .nav-menu {
+    margin-right: 10px;
+  }
+
+  .nav-links {
+    margin-right: 30px;
+  }
+}
+
+@media only screen and (max-width: 1060px) {
+  .nav-links {
+    margin-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .nav-logo {
+    margin-left: 0px;
+  }
+
+  .nav-menu {
+    margin-right: 0px;
+  }
+
+  .nav-links {
+    margin-right: 0px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .nav-container {
+    display: none;
+  }
+
+  .mobile-menu {
+    display: block;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    padding-left: 25px;
+  }
+}
+
+.about-us .nav {
+  background-color: #171616;
+}

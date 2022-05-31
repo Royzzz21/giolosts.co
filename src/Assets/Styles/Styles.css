@@ -1,0 +1,179 @@
+.Container{
+    position: absolute;
+width: 1920px;
+height: 492px;
+left: 0px;
+top: 5425px;
+
+background: #171616;
+box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+}
+.Company-Name{
+    position: absolute;
+width: 309px;
+height: 23px;
+left: 462px;
+top: 100px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+}
+.For-Engineers{
+    position: absolute;
+width: 326px;
+height: 36px;
+left: 731px;
+
+top: 100px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.For-Companies{
+    position: absolute;
+width: 326px;
+height: 36px;
+left: 1012px;
+
+top: 100px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.Labels{
+    position: absolute;
+width: 326px;
+height: 36px;
+left: 450px;
+top: 150px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.Label1{
+    position: absolute;
+width: 326px;
+height: 36px;
+left: 704px;
+top: 150px;
+
+font-family:'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.Label2{
+    position: absolute;
+    width: 326px;
+    height: 36px;
+    left: 977px;
+    top: 150px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.bot{
+    border-radius: 3ch;
+    border: #3EE04E;
+    font-size: 16px;
+    position: absolute;
+    width: 183px;
+    height: 57px;
+    left: 1423px;
+    top: 190px;
+
+}
+.connect{
+    /* CONNECT */
+position: absolute;
+width: 83px;
+height: 23px;
+left: 270px;
+top: 350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 23px;
+
+color: #FFFFFF;
+}
+
+.fb{
+    position: absolute;
+width: 84px;
+height: 72px;
+left: 400px;
+top: 70%;
+}
+.you{
+    position: absolute;
+width: 84px;
+height: 72px;
+left: 569px;
+
+left: 500px;
+top: 70%;
+}
+
+.ins{
+    position: absolute;
+width: 84px;
+height: 72px;
+left: 600px;
+top: 70%;
+}
+
+.twi{
+    position: absolute;
+width: 84px;
+left: 700px;
+top: 70%;
+}
+.tik{
+    position: absolute;
+width: 84px;
+left: 800px;
+top: 70%;
+}
+
+
+

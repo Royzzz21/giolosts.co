@@ -1,0 +1,1069 @@
+
+.header-container {
+    width: 100%;
+    height: 857px;
+    background: #171616;
+    margin-bottom: 100px;
+  }
+  
+  .header-content {
+    width: 80%;
+    margin: auto;
+    padding-top: 300px;
+  }
+  
+  .header-text {
+    font-family: "Open Sans";
+    margin-top: 0;
+    margin-bottom: 0;
+    color: white;
+    text-align: start;
+  }
+  
+  .header-label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+  }
+  
+  .header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 87px;
+  }
+  
+  .header-sub {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 65px;
+    margin-top: 10px;
+  }
+  
+  .header-btn {
+    border: 1px solid #3ee04e;
+    box-sizing: border-box;
+    border-radius: 43px;
+    width: 288px;
+    height: 57px;
+    background: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    margin-top: 20px;
+    transition: 0.2s;
+    float: left;
+    text-align: center;
+  }
+  
+  .header-btn:hover {
+    background: #3ee04e;
+  }
+  
+  .offers-container {
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .offers-img-container {
+    width: 36%;
+  }
+  
+  .offers-items-container {
+    width: 54%;
+  }
+  
+  .item-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .text {
+    font-family: "Open Sans";
+    font-style: normal;
+  }
+  
+  .offers-header-text {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 87px;
+    color: #3ee04e;
+  }
+  
+  .offers-img {
+    width: 100%;
+  }
+  
+  .offer-item {
+    display: flex;
+    width: 48%;
+    height: 200px;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+      rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  }
+  
+  .offer-item h1,
+  .offer-item p {
+    margin: 0 auto;
+    text-align: start;
+    width: 80%;
+  }
+  
+  .offer-item h1 {
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+  }
+  
+  .offer-item p {
+    margin-top: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+  }
+  
+  .technology-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    background: #ffffff;
+  }
+  
+  .technologies h1 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 87px;
+    color: #3ee04e;
+    margin-bottom: 0;
+  }
+  
+  .technologies p {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #000000;
+  }
+  
+  .technologies-container {
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .tech-header {
+    text-align: center;
+  }
+  
+  .tech-logo {
+    width: 100px;
+    height: 100px;
+  }
+  
+.service-container{
+  width: 80%;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 70px;
+  display: flex;
+  justify-content:center;
+}
+.sub-title{
+  position: absolute;
+width: 564px;
+height: 138px;
+left: 1097px;
+top: 3523px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 87px;
+text-align: center;
+
+color: #171616;
+}
+.services-text{
+  position: absolute;
+width: 525px;
+height: 192px;
+left: 1116px;
+top: 3625px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+text-align: center;
+
+color: #171616;
+
+}
+
+.text-services{
+  text-align: center;
+}
+.serve-header {
+  position: absolute;
+  width: 564px;
+  height: 138px;
+  left: 1097px;
+  
+top: 3050px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  text-align: center;
+  
+  color: #171616;
+padding-bottom: 20%;  
+}
+.serve-sub{
+  float: right;
+  position: absolute;
+width: 525px;
+height: 192px;
+left: 1116px;
+top: 3200px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+text-align: center;
+}
+.service-png{
+  position: absolute;
+width: 1016px;
+height: 698px;
+left: 88px;
+top: 2900px;
+}
+
+.Industry-container{
+  margin-top: 60%;
+  font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 87px;
+text-align: center;
+}
+
+
+.Ind-container{
+ /* AGRICULTURE */
+position: absolute;
+width: 326px;
+height: 37px;
+left: 350px;
+top: 4200px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 332px;
+
+
+/* TRADE */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 332px;
+
+
+/* SALES */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 332px;
+
+}
+.Four{
+  /* AGRICULTURE */
+position: absolute;
+width: 326px;
+height: 37px;
+left: 350px;
+top: 4350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 332px;
+
+
+/* TRADE */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 332px;
+
+
+/* SALES */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 332px;
+
+}
+.Five{
+  /* AGRICULTURE */
+position: absolute;
+width: 326px;
+height: 37px;
+left: 350px;
+top: 4500px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 332px;
+
+
+/* TRADE */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 332px;
+
+
+/* SALES */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 332px;
+
+}
+.iind-container{
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 805px;
+top: 4200px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  
+  color: #171616;
+  
+  
+  
+  /* Ok */
+  
+  
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 787px;
+  
+  
+  
+  /* HOSPITALITY */
+  
+  
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 805px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  
+  color: #171616;
+  
+  
+  
+  /* Ok */
+  
+  
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 787px;
+  
+  
+  /* SECURITY */
+  
+  
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 805px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  
+  color: #171616;
+  
+  
+  
+  /* Ok */
+  
+  
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 787px;  
+}
+.Six{
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 805px;
+  top: 4350px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  
+  color: #171616;
+  
+  
+  
+  /* Ok */
+  
+  
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 787px;
+  
+  
+  
+  /* HOSPITALITY */
+  
+  
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 805px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  
+  color: #171616;
+  
+  
+  
+  /* Ok */
+  
+  
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 787px;
+  
+  
+  /* SECURITY */
+  
+  
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 805px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  
+  color: #171616;
+  
+  
+  
+  /* Ok */
+  
+  
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 787px;  
+}
+.Seven{
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 805px;
+  top: 4500px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  
+  color: #171616;
+  
+  
+  
+  /* Ok */
+  
+  
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 787px;
+  
+  
+  
+  /* HOSPITALITY */
+  
+  
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 805px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  
+  color: #171616;
+  
+  
+  
+  /* Ok */
+  
+  
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 787px;
+  
+  
+  /* SECURITY */
+  
+  
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 805px;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  
+  color: #171616;
+  
+  
+  
+  /* Ok */
+  
+  
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  left: 787px;  
+}
+.iiind-container{
+  position: absolute;
+width: 326px;
+height: 37px;
+left: 1260px;
+top: 4200px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1242px;
+
+
+
+/* ENGINEERING */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 1260px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1242px;
+
+
+/* TRADE */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 1260px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1242px;
+
+}
+
+.Eight{
+  position: absolute;
+width: 326px;
+height: 37px;
+left: 1260px;
+top: 4350px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1242px;
+
+
+
+/* ENGINEERING */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 1260px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1242px;
+
+
+/* TRADE */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 1260px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1242px;
+
+}
+.Nine{
+  position: absolute;
+width: 326px;
+height: 37px;
+left: 1260px;
+top: 4500px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1242px;
+
+
+
+/* ENGINEERING */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 1260px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1242px;
+
+
+/* TRADE */
+
+
+position: absolute;
+width: 326px;
+height: 37px;
+left: 1260px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #171616;
+
+
+
+/* Ok */
+
+
+position: absolute;
+width: 90px;
+height: 90px;
+left: 1242px;
+
+}
+.Labels{
+  position: absolute;
+  width: 326px;
+  height: 37px;
+  left: 90px;
+  top: 0%;
+  
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  
+  
+  color: #171616;
+}
+.parap{
+  
+position: absolute;
+width: 301px;
+height: 116px;
+left: 100px;
+top: 10px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: px;
+line-height: 23px;
+
+color: #171616;
+
+}
+.Labels2{
+
+  top: 10px;
+}
+.Industry-item{
+  text-align: start;
+
+}
+
+
+

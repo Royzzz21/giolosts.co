@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/giolosts.co/static/css/main.89ee5914.css",
-    "main.js": "/giolosts.co/static/js/main.ff88d39c.js",
+    "main.js": "/giolosts.co/static/js/main.c9769492.js",
     "static/js/787.5b4b9fa4.chunk.js": "/giolosts.co/static/js/787.5b4b9fa4.chunk.js",
     "static/media/home-img1.png": "/giolosts.co/static/media/home-img1.a291c2913a3d5f6233a0.png",
     "static/media/check.png": "/giolosts.co/static/media/check.ff4b64f465cd8cf482f7.png",
@@ -18,11 +18,11 @@
     "static/media/partner-logo.JPG": "/giolosts.co/static/media/partner-logo.4049632c135d30427f1f.JPG",
     "index.html": "/giolosts.co/index.html",
     "main.89ee5914.css.map": "/giolosts.co/static/css/main.89ee5914.css.map",
-    "main.ff88d39c.js.map": "/giolosts.co/static/js/main.ff88d39c.js.map",
+    "main.c9769492.js.map": "/giolosts.co/static/js/main.c9769492.js.map",
     "787.5b4b9fa4.chunk.js.map": "/giolosts.co/static/js/787.5b4b9fa4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89ee5914.css",
-    "static/js/main.ff88d39c.js"
+    "static/js/main.c9769492.js"
   ]
 }

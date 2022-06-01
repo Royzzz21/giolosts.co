@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/giolosts.co/static/css/main.89ee5914.css",
-    "main.js": "/giolosts.co/static/js/main.ff88d39c.js",
-    "static/js/787.5b4b9fa4.chunk.js": "/giolosts.co/static/js/787.5b4b9fa4.chunk.js",
-    "static/media/home-img1.png": "/giolosts.co/static/media/home-img1.a291c2913a3d5f6233a0.png",
-    "static/media/check.png": "/giolosts.co/static/media/check.ff4b64f465cd8cf482f7.png",
-    "static/media/ceo.jpg": "/giolosts.co/static/media/ceo.a2629648665ac8844be3.jpg",
-    "static/media/sprint.png": "/giolosts.co/static/media/sprint.3ced9f3e8d308e46fef5.png",
-    "static/media/home-img2.png": "/giolosts.co/static/media/home-img2.a459964e35411d672020.png",
-    "static/media/techImg.jpg": "/giolosts.co/static/media/techImg.9e2d0f626bf11bd6d19a.jpg",
-    "static/media/agile.jpg": "/giolosts.co/static/media/agile.11f0ed1ed14cf6a1dc21.jpg",
-    "static/media/offers_img.png": "/giolosts.co/static/media/offers_img.99a38125b6b85ca0b97e.png",
-    "static/media/offersImg.png": "/giolosts.co/static/media/offersImg.22c176e4aad1c555283d.png",
-    "static/media/home-img3.png": "/giolosts.co/static/media/home-img3.c7c7984a000914116748.png",
-    "static/media/services.png": "/giolosts.co/static/media/services.ca5d3419c46b9cf4d040.png",
-    "static/media/tech.jpg": "/giolosts.co/static/media/tech.283f239d709b331b1727.jpg",
-    "static/media/partner-logo.JPG": "/giolosts.co/static/media/partner-logo.4049632c135d30427f1f.JPG",
-    "index.html": "/giolosts.co/index.html",
-    "main.89ee5914.css.map": "/giolosts.co/static/css/main.89ee5914.css.map",
-    "main.ff88d39c.js.map": "/giolosts.co/static/js/main.ff88d39c.js.map",
-    "787.5b4b9fa4.chunk.js.map": "/giolosts.co/static/js/787.5b4b9fa4.chunk.js.map"
+    "main.css": "/static/css/main.89ee5914.css",
+    "main.js": "/static/js/main.255b8986.js",
+    "static/js/787.5b4b9fa4.chunk.js": "/static/js/787.5b4b9fa4.chunk.js",
+    "static/media/home-img1.png": "/static/media/home-img1.a291c2913a3d5f6233a0.png",
+    "static/media/check.png": "/static/media/check.ff4b64f465cd8cf482f7.png",
+    "static/media/ceo.jpg": "/static/media/ceo.a2629648665ac8844be3.jpg",
+    "static/media/sprint.png": "/static/media/sprint.3ced9f3e8d308e46fef5.png",
+    "static/media/home-img2.png": "/static/media/home-img2.a459964e35411d672020.png",
+    "static/media/techImg.jpg": "/static/media/techImg.9e2d0f626bf11bd6d19a.jpg",
+    "static/media/agile.jpg": "/static/media/agile.11f0ed1ed14cf6a1dc21.jpg",
+    "static/media/offers_img.png": "/static/media/offers_img.99a38125b6b85ca0b97e.png",
+    "static/media/offersImg.png": "/static/media/offersImg.22c176e4aad1c555283d.png",
+    "static/media/home-img3.png": "/static/media/home-img3.c7c7984a000914116748.png",
+    "static/media/services.png": "/static/media/services.ca5d3419c46b9cf4d040.png",
+    "static/media/tech.jpg": "/static/media/tech.283f239d709b331b1727.jpg",
+    "static/media/partner-logo.JPG": "/static/media/partner-logo.4049632c135d30427f1f.JPG",
+    "index.html": "/index.html",
+    "main.89ee5914.css.map": "/static/css/main.89ee5914.css.map",
+    "main.255b8986.js.map": "/static/js/main.255b8986.js.map",
+    "787.5b4b9fa4.chunk.js.map": "/static/js/787.5b4b9fa4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89ee5914.css",
-    "static/js/main.ff88d39c.js"
+    "static/js/main.255b8986.js"
   ]
 }

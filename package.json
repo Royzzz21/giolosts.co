@@ -2,7 +2,7 @@
   "name": "gt-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://royzzz21.github.io/giolosts.co",
+  "homepage": "https://giolosts.co",
   "dependencies": {
     "cra-template": "1.3.0",
     "react": "^19.1.0",

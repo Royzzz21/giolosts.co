@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/giolosts.co/static/css/main.e96fc4bc.css",
-    "main.js": "/giolosts.co/static/js/main.4f3a6461.js",
-    "static/js/584.c47ba931.chunk.js": "/giolosts.co/static/js/584.c47ba931.chunk.js",
-    "static/media/sales-force-logo.png": "/giolosts.co/static/media/sales-force-logo.4623ca3ec5db109f4109.png",
-    "static/media/hero-bg.jpg": "/giolosts.co/static/media/hero-bg.ee2b8312475ea0b96e0b.jpg",
-    "static/media/wrench.png": "/giolosts.co/static/media/wrench.e0579b02916767c1d468.png",
-    "static/media/logo.jpg": "/giolosts.co/static/media/logo.9e2d0f626bf11bd6d19a.jpg",
-    "static/media/light-house.jpg": "/giolosts.co/static/media/light-house.90f429c25e0c618c3634.jpg",
-    "static/media/boiling-waters.jpg": "/giolosts.co/static/media/boiling-waters.db431f90d0f6d1da55f9.jpg",
-    "static/media/google-cloud-logo.png": "/giolosts.co/static/media/google-cloud-logo.811e5e2a9233f7045686.png",
-    "index.html": "/giolosts.co/index.html",
-    "main.e96fc4bc.css.map": "/giolosts.co/static/css/main.e96fc4bc.css.map",
-    "main.4f3a6461.js.map": "/giolosts.co/static/js/main.4f3a6461.js.map",
-    "584.c47ba931.chunk.js.map": "/giolosts.co/static/js/584.c47ba931.chunk.js.map"
+    "main.css": "/static/css/main.030552c1.css",
+    "main.js": "/static/js/main.347ec275.js",
+    "static/js/584.c47ba931.chunk.js": "/static/js/584.c47ba931.chunk.js",
+    "static/media/sales-force-logo.png": "/static/media/sales-force-logo.4623ca3ec5db109f4109.png",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.ee2b8312475ea0b96e0b.jpg",
+    "static/media/wrench.png": "/static/media/wrench.e0579b02916767c1d468.png",
+    "static/media/logo.jpg": "/static/media/logo.9e2d0f626bf11bd6d19a.jpg",
+    "static/media/light-house.jpg": "/static/media/light-house.90f429c25e0c618c3634.jpg",
+    "static/media/boiling-waters.jpg": "/static/media/boiling-waters.db431f90d0f6d1da55f9.jpg",
+    "static/media/google-cloud-logo.png": "/static/media/google-cloud-logo.811e5e2a9233f7045686.png",
+    "index.html": "/index.html",
+    "main.030552c1.css.map": "/static/css/main.030552c1.css.map",
+    "main.347ec275.js.map": "/static/js/main.347ec275.js.map",
+    "584.c47ba931.chunk.js.map": "/static/js/584.c47ba931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e96fc4bc.css",
-    "static/js/main.4f3a6461.js"
+    "static/css/main.030552c1.css",
+    "static/js/main.347ec275.js"
   ]
 }
